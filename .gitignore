@@ -1,0 +1,52 @@
+# Go build output
+bin/
+*.exe
+*.test
+*.out
+
+# Dependency directories
+vendor/
+
+# Configuration files
+*.json
+*.yml
+*.yaml
+*.env
+
+# IDE and Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Go module files
+go.sum
+
+# Firebase Admin SDK credentials (adjust the filename if needed)
+cmd/fittrackr-dkozlov-firebase-adminsdk-sovt7-a54294dc41.json
+
+# Logs
+*.log
+
+# Build artifacts
+build/
+dist/
+
+# Local environment configurations
+.env
+config/
+
+# Miscellaneous
+*.tmp
+*.bak
+*.orig
+
+# Exclude Go module cache
+go/cache/
+
+# Exclude test output
+test-results/
