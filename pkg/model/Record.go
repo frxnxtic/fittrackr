@@ -1,4 +1,4 @@
-package models
+package model
 
 type Record struct {
 	ExerciseID string  `json:"exercise_id" firestore:"exercise_id"` // Идентификатор упражнения

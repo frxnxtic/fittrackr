@@ -1,4 +1,4 @@
-package models
+package model
 
 type Exercise struct {
 	ID           string  `json:"id" firestore:"id"`                       // Идентификатор упражнения

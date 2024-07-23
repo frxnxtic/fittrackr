@@ -69,7 +69,7 @@
 
 ## Контакты
 
-Если у тебя есть вопросы или предложения, можешь связаться со мной через [GitHub Issues](https://github.com/yourusername/fittrackr/issues) или по электронной почте на your.email@example.com.
+Если у тебя есть вопросы или предложения, можешь связаться со мной через [GitHub Issues](https://github.com/frxnxtic/fittrackr/issues) или по электронной почте на frxnxtic.work@gmail.com.
 
 ---
 

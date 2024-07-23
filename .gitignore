@@ -27,7 +27,7 @@ Thumbs.db
 go.sum
 
 # Firebase Admin SDK credentials (adjust the filename if needed)
-cmd/fittrackr-dkozlov-firebase-adminsdk-sovt7-a54294dc41.json
+cmd/key.json
 
 # Logs
 *.log
